@@ -1,5 +1,5 @@
 # Projects
-[README](README.md) · [About Me](about.md) · [Philosophy](philosophy.md)
+[README](README.md) · [About Me](about.md) · [Philosophy](philosophy.md) [Sign the guestbook](../../issues/new?template=guestbook.md)
 
 Most of my projects start with a simple question:
 
