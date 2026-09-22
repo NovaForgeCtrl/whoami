@@ -1,5 +1,5 @@
 # About Me
-
+[README](README.md) · [Projects](projects.md) · [Philosophy](philosophy.md)
 I'm not a trained IT professional.
 
 I'm a career changer currently training to become an IT Specialist for System Integration (Fachinformatiker für Systemintegration).
