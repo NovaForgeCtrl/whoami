@@ -1,5 +1,5 @@
 # whoami
-[About Me](about.md) · [Projects](projects.md) · [Philosophy](philosophy.md)
+[About Me](about.md) · [Projects](projects.md) · [Philosophy](philosophy.md) [Sign the guestbook](../../issues/new?template=guestbook.md)
 
 > `segfault // override`
 
