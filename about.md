@@ -1,5 +1,5 @@
 # About Me
-[README](README.md) · [Projects](projects.md) · [Philosophy](philosophy.md)
+[README](README.md) · [Projects](projects.md) · [Philosophy](philosophy.md) [Sign the guestbook](../../issues/new?template=guestbook.md)
 
 I'm not a trained IT professional.
 
