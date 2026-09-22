@@ -1,8 +1,5 @@
-# whoami Explore
-
-- [About Me](about.md)
-- [Projects](projects.md)
-- [Philosophy](philosophy.md)
+# whoami
+[About Me](about.md) · [Projects](projects.md) · [Philosophy](philosophy.md)
 
 > `segfault // override`
 
