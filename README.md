@@ -1,4 +1,4 @@
-# whoami## Explore
+# whoami Explore
 
 - [About Me](about.md)
 - [Projects](projects.md)
