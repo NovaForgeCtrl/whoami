@@ -1,4 +1,5 @@
 # Philosophy
+[README](README.md) · [About Me](about.md) · [Projects](projects.md)
 
 I don't really have a grand philosophy.
 
