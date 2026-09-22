@@ -1,5 +1,5 @@
 # Philosophy
-[README](README.md) · [About Me](about.md) · [Projects](projects.md)
+[README](README.md) · [About Me](about.md) · [Projects](projects.md) [Sign the guestbook](../../issues/new?template=guestbook.md)
 
 I don't really have a grand philosophy.
 
