@@ -104,6 +104,20 @@ Maybe that's enough.
 
 For now.
 
+
+---
+
+## Professional Skills
+
+- Building infrastructure: ████████░░
+- Troubleshooting: █████████░
+- Documentation: █████████░
+- Overthinking: ██████████
+- Selling myself: ██░░░░░░░░
+- Job applications: ░░░░░░░░░░
+
+Apparently, I should work on that last part.
+
 ---
 
 `segfault // override`
